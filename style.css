@@ -105,6 +105,17 @@ h2{
     justify-content: space-between;
 
 }
+.hero6{
+    height: 100vh;
+    background-image: url("./images/accessories.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
 nav{
     display: flex;
     justify-content: space-between;
